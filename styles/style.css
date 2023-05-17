@@ -249,6 +249,7 @@
   width: 877px;
   height: 877px;
   z-index: 1;
+  background-size: contain;
 }
 
 .footer {
@@ -293,17 +294,15 @@
 
 .footer__column_content_info {
   margin: 0 0 auto 0;
-  padding-bottom: 16px;
 }
 
 .footer__column_content_social {
   margin: 0 0 auto 0;
-  padding-bottom: 16px;
 }
 
 .footer__column-links {
   margin: 0;
-  padding: 0;
+  padding: 0 0 16px 0;
   display: flex;
   flex-direction: column;
   list-style: none;
