@@ -4,9 +4,9 @@
     }
   }
 
-  .rotation {
+.rotation {
     animation-name: rotation;
     animation-duration: 20s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
-  }
+}
